@@ -1,0 +1,10 @@
+<turret_01.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.09088 0.0357328 -1.8019</min>
+    <max>1.09988 1.31547 1.14323</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/Avalon's WoT Workshop/GB80_Charioteer/normal/lod0/Turret_01</nodefullVisual>
+</turret_01.model>

@@ -1,0 +1,10 @@
+<gun_03.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>	-0.220464 -0.183864 0.124611	</min>
+    <max>0.220464 0.188054 3.66649</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/Avalon's WoT Workshop/GB80_Charioteer/normal/lod0/Gun_03</nodefullVisual>
+</gun_03.model>
