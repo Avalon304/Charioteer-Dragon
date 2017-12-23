@@ -115,7 +115,7 @@
       <maxRegenHealth>	150	</maxRegenHealth>
       <repairCost>5.0</repairCost>
       <models>
-        <undamaged>vehicles/british/GB80_Charioteer/normal/lod0/Chassis.model</undamaged>
+        <undamaged>vehicles/Avalon's WoT Workshop/GB80_Charioteer/normal/lod0/Chassis.model</undamaged>
         <destroyed>vehicles/british/GB80_Charioteer/crash/lod0/Chassis.model</destroyed>
         <exploded>vehicles/british/GB80_Charioteer/crash/lod0/Chassis.model</exploded>
       </models>
@@ -459,7 +459,7 @@
       <maxRegenHealth>	165	</maxRegenHealth>
       <repairCost>5.0</repairCost>
       <models>
-        <undamaged>vehicles/british/GB80_Charioteer/normal/lod0/Chassis.model</undamaged>
+        <undamaged>vehicles/Avalon's WoT Workshop/GB80_Charioteer/normal/lod0/Chassis.model</undamaged>
         <destroyed>vehicles/british/GB80_Charioteer/crash/lod0/Chassis.model</destroyed>
         <exploded>vehicles/british/GB80_Charioteer/crash/lod0/Chassis.model</exploded>
       </models>

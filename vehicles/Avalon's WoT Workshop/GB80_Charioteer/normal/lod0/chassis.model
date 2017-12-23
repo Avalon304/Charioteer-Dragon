@@ -1,0 +1,10 @@
+<chassis.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.4437 0.000000 -2.90356</min>
+    <max>1.4437 1.02204 2.9124</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/Avalon's WoT Workshop/GB80_Charioteer/normal/lod0/Chassis</nodefullVisual>
+</chassis.model>
