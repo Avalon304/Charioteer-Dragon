@@ -155,6 +155,10 @@
 						excludeMaskAndAOMap
 						<Texture>vehicles/Avalon's WoT Workshop/GB80_Charioteer/Charioteer_hull_01_AO.dds</Texture>
 					</property>
+					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB80_Charioteer/Charioteer_hull_01_ID.dds</Texture>
+					</property>
 				</material>
 				<groupOrigin>-0.0005719999899156392 0.14770899713039398 -0.13278700411319733</groupOrigin>
 			</primitiveGroup>
@@ -212,6 +216,10 @@
 					<property>
 						excludeMaskAndAOMap
 						<Texture>vehicles/Avalon's WoT Workshop/GB80_Charioteer/Cromwell_Berlin_hull_01_AO.dds</Texture>
+					</property>
+					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB80_Charioteer/Cromwell_Berlin_hull_01_ID.dds</Texture>
 					</property>
 				</material>
 				<groupOrigin>-0.022127000615000725 0.19430899620056152 -0.046925000846385956</groupOrigin>

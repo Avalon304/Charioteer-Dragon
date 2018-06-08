@@ -75,6 +75,10 @@
 						excludeMaskAndAOMap
 						<Texture>vehicles/Avalon's WoT Workshop/GB80_Charioteer/Charioteer_turret_01_AO.dds</Texture>
 					</property>
+					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB80_Charioteer/Charioteer_turret_01_ID.dds</Texture>
+					</property>
 				</material>
 				<groupOrigin>0.0 0.9437850117683411 -0.3233569860458374</groupOrigin>
 			</primitiveGroup>
@@ -141,6 +145,10 @@
 						excludeMaskAndAOMap
 						<Texture>vehicles/Avalon's WoT Workshop/GB80_Charioteer/Centurion_Action_X_turret_01_AO.dds</Texture>
 					</property>
+					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB80_Charioteer/Centurion_Action_X_turret_01_ID.dds</Texture>
+					</property>
 				</material>
 				<groupOrigin>-0.0022899999748915434 1.430027961730957 -0.556318998336792</groupOrigin>
 			</primitiveGroup>
@@ -199,6 +207,10 @@
 						excludeMaskAndAOMap
 						<Texture>vehicles/Avalon's WoT Workshop/GB80_Charioteer/Cromwell_Berlin_turret_01_AO.dds</Texture>
 					</property>
+					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB80_Charioteer/Cromwell_Berlin_turret_01_ID.dds</Texture>
+					</property>
 				</material>
 				<groupOrigin>-0.0004990000161342323 1.020751953125 -0.17532700300216675</groupOrigin>
 			</primitiveGroup>
@@ -256,6 +268,10 @@
 					<property>
 						excludeMaskAndAOMap
 						<Texture>vehicles/Avalon's WoT Workshop/GB80_Charioteer/M41_Bulldog_Turret_02_AO.dds</Texture>
+					</property>
+					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB80_Charioteer/M41_Bulldog_Turret_02_ID.dds</Texture>
 					</property>
 				</material>
 				<groupOrigin>-0.003610 1.397732 -0.510045</groupOrigin>
@@ -318,6 +334,10 @@
 					<property>
 						excludeMaskAndAOMap
 						<Texture>vehicles/Avalon's WoT Workshop/GB80_Charioteer/M18_Hellcat_turret_02_AO.dds</Texture>
+					</property>
+					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB80_Charioteer/M18_Hellcat_turret_02_ID.dds</Texture>
 					</property>
 				</material>
 				<groupOrigin>0.036903 0.567303 -0.461517</groupOrigin>

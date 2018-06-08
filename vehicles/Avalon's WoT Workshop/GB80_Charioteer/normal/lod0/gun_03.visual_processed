@@ -111,6 +111,10 @@
 						excludeMaskAndAOMap
 						<Texture>vehicles/Avalon's WoT Workshop/GB80_Charioteer/Charioteer_guns_AO.dds</Texture>
 					</property>
+					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB80_Charioteer/Charioteer_guns_ID.dds</Texture>
+					</property>
 				</material>
 				<groupOrigin>0.0 0.002094999887049198 -1.8955479860305786</groupOrigin>
 			</primitiveGroup>
@@ -177,6 +181,10 @@
 						excludeMaskAndAOMap
 						<Texture>vehicles/Avalon's WoT Workshop/GB80_Charioteer/Centurion_Mk3_guns_AO.dds</Texture>
 					</property>
+					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB80_Charioteer/Centurion_Mk3_guns_ID.dds</Texture>
+					</property>
 				</material>
 				<groupOrigin>0.006446 0.005791 -2.117138</groupOrigin>
 			</primitiveGroup>
@@ -238,6 +246,10 @@
 					<property>
 						excludeMaskAndAOMap
 						<Texture>vehicles/Avalon's WoT Workshop/GB80_Charioteer/Centurion_Action_X_guns_AO.dds</Texture>
+					</property>
+					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB80_Charioteer/Centurion_Action_X_guns_ID.dds</Texture>
 					</property>
 				</material>
 				<groupOrigin>-0.012500 0.019003 -2.191813</groupOrigin>
